@@ -276,10 +276,9 @@ The app includes:
 <img width="367" height="594" alt="Screenshot 2026-01-13 at 1 26 08 PM" src="https://github.com/user-attachments/assets/417a1f97-cd2a-4d20-aba3-b886f9cc3cc8" />
 <img width="367" height="594" alt="Screenshot 2026-01-13 at 1 26 04 PM" src="https://github.com/user-attachments/assets/71a67315-a7a0-49cb-89ae-122bc95a5af2" />
 
+- Full List 
+<img width="367" height="594" alt="Screenshot 2026-01-13 at 1 25 45 PM" src="https://github.com/user-attachments/assets/7a1a87eb-d716-4e47-a5b1-05f8fa5ded70" />
 
-## 🎥 Video Demonstration
-
-*(Optional: Add link to video demo)*
 
 ## 📄 Assignment Requirements Checklist
 
