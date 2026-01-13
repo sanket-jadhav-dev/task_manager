@@ -261,12 +261,21 @@ The app includes:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
 - Login Screen
-- Task List Screen (Online)
-- Task List Screen (Offline)
+
+<img width="372" height="594" alt="Screenshot 2026-01-13 at 1 27 37 PM" src="https://github.com/user-attachments/assets/918359ba-56e6-4bfa-9f1a-355fab55a276" />
+<img width="372" height="594" alt="Screenshot 2026-01-13 at 1 27 30 PM" src="https://github.com/user-attachments/assets/4ee89363-ba9e-459f-9be6-c7b5521ed300" />
+
 - Search Functionality
+
+<img width="367" height="594" alt="Screenshot 2026-01-13 at 1 26 04 PM" src="https://github.com/user-attachments/assets/ad213cf8-862e-40f9-8a95-672d22c99556" />
+<img width="367" height="594" alt="Screenshot 2026-01-13 at 1 25 53 PM" src="https://github.com/user-attachments/assets/b2bbfe8d-103e-4425-8d84-5e1bc6d41a8f" />
+
 - Add Task Dialog
+  
+<img width="367" height="594" alt="Screenshot 2026-01-13 at 1 26 08 PM" src="https://github.com/user-attachments/assets/417a1f97-cd2a-4d20-aba3-b886f9cc3cc8" />
+<img width="367" height="594" alt="Screenshot 2026-01-13 at 1 26 04 PM" src="https://github.com/user-attachments/assets/71a67315-a7a0-49cb-89ae-122bc95a5af2" />
+
 
 ## 🎥 Video Demonstration
 
@@ -293,7 +302,7 @@ The app includes:
 
 **Candidate**: Sanket  
 **Assignment**: Flutter Task Manager  
-**Submission Date**: [Current Date]  
+**Submission Date**: 13 Jan 2026
 **Evaluation Criteria Met**: All requirements fulfilled
 
 ## 👤 Author
