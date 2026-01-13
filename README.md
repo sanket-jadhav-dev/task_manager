@@ -319,7 +319,7 @@ This project is created for assignment purposes.
 
 ```bash
 # Clone and setup
-git clone <repository-url>
+git clone https://github.com/sanket-jadhav-dev/task_manager
 cd task-manager
 flutter pub get
 flutter packages pub run build_runner build
